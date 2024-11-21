@@ -59,7 +59,7 @@ namespace backend.Controllers
             if (image != null)
             {
                 // Usando /tmp em vez de uploads
-                var imagePath = Path.Combine("/tmp", $"{Guid.NewGuid()}{Path.GetExtension(image.FileName)}");
+                var imagePath = Path.Combine("/tmp/uploads", $"{Guid.NewGuid()}{Path.GetExtension(image.FileName)}");
 
                 using (var stream = new FileStream(imagePath, FileMode.Create))
                 {
