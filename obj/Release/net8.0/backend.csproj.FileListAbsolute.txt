@@ -75,3 +75,10 @@ C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\global.json
 C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\backend.staticwebassets.endpoints.json
 C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\web.config
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\backend.staticwebassets.endpoints.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\backend.deps.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\backend.runtimeconfig.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\publish\publish\global.json
