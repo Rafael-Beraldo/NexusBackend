@@ -149,3 +149,10 @@ C:\Users\Rafaelbe\Desktop\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\Rafaelbe\Desktop\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\Rafaelbe\Desktop\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\Rafaelbe\Desktop\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\web.config
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\backend.staticwebassets.endpoints.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\appsettings.Development.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\appsettings.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\backend.deps.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\backend.runtimeconfig.json
+C:\Users\Rafaelbe\Desktop\backend\bin\Debug\net8.0\publish\publish\publish\global.json
