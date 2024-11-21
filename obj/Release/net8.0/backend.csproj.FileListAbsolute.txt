@@ -65,3 +65,4 @@ C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\refint\backend.dll
 C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\backend.pdb
 C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\backend.genruntimeconfig.cache
 C:\Users\Rafaelbe\Desktop\backend\obj\Release\net8.0\ref\backend.dll
+C:\Users\Rafaelbe\Desktop\backend\bin\Release\net8.0\global.json
