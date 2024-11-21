@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ipLbGIHUik=",
+  "dgSpecHash": "nYHNB5lqI68=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafaelbe\\Desktop\\nexus\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\Rafaelbe\\Desktop\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafaelbe\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Rafaelbe\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",

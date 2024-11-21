@@ -2365,11 +2365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafaelbe\\Desktop\\nexus\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\Rafaelbe\\Desktop\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\Rafaelbe\\Desktop\\nexus\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\Rafaelbe\\Desktop\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\Rafaelbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafaelbe\\Desktop\\nexus\\backend\\obj\\",
+      "outputPath": "C:\\Users\\Rafaelbe\\Desktop\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafaelbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
