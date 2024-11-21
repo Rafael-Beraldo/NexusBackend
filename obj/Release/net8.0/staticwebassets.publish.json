@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "YPz/vyelmvtK09fVAVz8X56ztXmB/3G0R0iQdb4gMGM=",
+  "Hash": "fYe6D89pf4mC900hfuMFUa92jckPXqvtAQ0cWshcyrI=",
   "Source": "backend",
   "BasePath": "_content/backend",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

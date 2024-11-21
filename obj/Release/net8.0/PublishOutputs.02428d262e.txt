@@ -1,7 +1,13 @@
 C:\Users\Rafaelbe\Desktop\backend\publish\backend.exe
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\web.config
 C:\Users\Rafaelbe\Desktop\backend\publish\appsettings.Development.json
 C:\Users\Rafaelbe\Desktop\backend\publish\appsettings.json
 C:\Users\Rafaelbe\Desktop\backend\publish\global.json
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\appsettings.Development.json
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\appsettings.json
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\backend.deps.json
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\backend.runtimeconfig.json
+C:\Users\Rafaelbe\Desktop\backend\publish\publish\global.json
 C:\Users\Rafaelbe\Desktop\backend\publish\backend.dll
 C:\Users\Rafaelbe\Desktop\backend\publish\backend.deps.json
 C:\Users\Rafaelbe\Desktop\backend\publish\backend.runtimeconfig.json
